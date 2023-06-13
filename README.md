@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Rails React</b></h1>
+  <h1><b>Hello Rails Backend</b></h1>
 </div>
 
 # 📗 Table of Contents
